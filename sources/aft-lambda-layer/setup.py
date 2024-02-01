@@ -63,7 +63,7 @@ setuptools.setup(
         "whaaaaat == 0.5.2",
         "Jinja2 == 3.0.3",
         "jsonschema == 4.3.2",
-        "requests == 2.28.0",
+        "requests == 2.31.0",
     ],
     extras_require={
         "dev": [
